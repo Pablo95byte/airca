@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://www.example.com/"
+baseurl = "https://pablo95byte.github.io/airca/"
 languageCode = "en"
 title = "AirCagliari"
 theme = "vex-hugo"
